@@ -99,3 +99,38 @@
 [03Oct2025 16:51:26.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
 [03Oct2025 16:52:24.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
 [03Oct2025 16:52:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
+[03Oct2025 16:54:36.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GNS_03[/127.131.50.53:44417] logged in with entity id 599 at (110.17214439050471, 71.0, 36.37129728410354)
+[03Oct2025 16:54:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
+[03Oct2025 16:54:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GNS_03 a server operator
+[03Oct2025 16:55:21.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set the time to 25000]
+[03Oct2025 16:55:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doDaylightCycle is now set to: false]
+[03Oct2025 16:56:05.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maikyto13[/127.216.105.189:44475] logged in with entity id 838 at (106.5, 70.0, 41.5)
+[03Oct2025 16:56:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 joined the game
+[03Oct2025 16:56:09.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=106, y=70, z=45}
+[03Oct2025 16:56:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=106, y=70, z=44}
+[03Oct2025 16:56:09.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=106, y=70, z=44}
+[03Oct2025 16:56:44.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=110, y=70, z=37}
+[03Oct2025 16:56:45.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=110, y=70, z=37}
+[03Oct2025 16:58:34.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 has made the advancement [Stone Age]
+[03Oct2025 16:59:14.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 has made the advancement [Getting an Upgrade]
+[03Oct2025 16:59:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 was slain by maikyto13
+[03Oct2025 17:00:34.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=71, z=13} BlockPos{x=91, y=71, z=20}
+[03Oct2025 17:00:37.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=71, z=13} BlockPos{x=91, y=70, z=18}
+[03Oct2025 17:00:37.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=71, z=13} BlockPos{x=91, y=70, z=17}
+[03Oct2025 17:00:37.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=71, z=13} BlockPos{x=90, y=70, z=17}
+[03Oct2025 17:00:53.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=70, z=15} BlockPos{x=98, y=70, z=22}
+[03Oct2025 17:00:54.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=70, z=15} BlockPos{x=98, y=70, z=21}
+[03Oct2025 17:00:55.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=70, z=15} BlockPos{x=98, y=70, z=22}
+[03Oct2025 17:00:55.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=70, z=15} BlockPos{x=99, y=70, z=21}
+[03Oct2025 17:01:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set own game mode to Creative Mode]
+[03Oct2025 17:01:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Teleported maikyto13 to 109.563141, 276.542687, 13.999759]
+[03Oct2025 17:02:02.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikyto13 was kicked for floating too long!
+[03Oct2025 17:02:02.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikyto13 lost connection: Disconnected
+[03Oct2025 17:02:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 left the game
+[03Oct2025 17:02:03.034] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 17:02:08.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maikyto13[/127.216.105.189:38525] logged in with entity id 1947 at (109.66212840464442, 113.70927855604332, 15.553362913571869)
+[03Oct2025 17:02:08.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 joined the game
+[03Oct2025 17:02:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 fell from a high place
+[03Oct2025 17:03:12.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=70, z=15} BlockPos{x=107, y=70, z=43}
+[03Oct2025 17:03:13.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=70, z=15} BlockPos{x=105, y=70, z=41}
+[03Oct2025 17:03:13.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=70, z=15} BlockPos{x=104, y=70, z=40}
